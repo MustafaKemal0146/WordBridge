@@ -4,7 +4,7 @@ Bu terminal tabanlı uygulama, İngilizce-Türkçe kelime bilginizi test etmeniz
 
 ## ⚠️ Önemli Not
 
-Bu uygulama şu an için yalnızca Linux işletim sistemlerinde sorunsuz çalışmaktadır. Windows kullanıcıları için uyumlu hale getirme çalışmaları devam etmektedir. Anlayışınız için teşekkür ederiz.
+Bu uygulama şu an için yalnızca Linux işletim sistemlerinde ve Termux üzerinde sorunsuz çalışmaktadır. Windows kullanıcıları için uyumlu hale getirme çalışmaları devam etmektedir. Anlayışınız için teşekkür ederiz.
 
 ## Özellikler
 
