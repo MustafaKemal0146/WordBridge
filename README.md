@@ -80,7 +80,7 @@ python main.py
 
 ## Lisans
 
-Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
+Bu proje [GNU 3.0 lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
