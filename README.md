@@ -84,7 +84,7 @@ Bu proje [GNU 3.0 lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 
-İletişim için: [E-posta Adresiniz](mailto:ismustafakemal0146@gmail.com)
+İletişim için: [E-posta Adresim](mailto:ismustafakemal0146@gmail.com)
 
 ## Teşekkürler
 
