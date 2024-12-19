@@ -9,7 +9,7 @@ Bu uygulama şu an için yalnızca Linux işletim sistemlerinde ve Termux üzeri
 ## Özellikler
 
 - İngilizce → Türkçe veya Türkçe → İngilizce yönünde çalışma imkanı
-- 6 farklı dil seviyesi (A1, A2, B1, B2, C1, C2)
+- 6 farklı dil seviyesi (A1, A2, B1, B2, C1, C2) 
 - Her seviye için özel kelime havuzu
 - 1-20 arası soru sayısı seçimi
 - Çoktan seçmeli sorular (4 seçenek)
